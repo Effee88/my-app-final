@@ -1,0 +1,50 @@
+body {
+  max-width: 1400px;
+  margin: 0 auto;
+}
+
+.app{
+  margin: 0;
+}
+
+
+/*text-section*/
+.text-section{
+  max-width: 1000px;
+  margin: 0 auto;
+  text-align: center;
+  margin-top: 50px;
+  margin-bottom: 50px;
+}
+
+.text-section h2{
+  text-align: center;
+  font-size: 38px;
+}
+
+.text-section p{
+  text-align: center;
+  font-size: 18px;
+}
+/*text-section end*/
+/*Slider*/
+
+.slider{
+  background: rgb(202,218,248);
+}
+.slick-dots
+{
+    position: absolute;
+    bottom: 10px;
+
+    display: block;
+
+    width: 100%;
+    padding: 0;
+    margin: 0;
+
+    list-style: none;
+
+    text-align: center;
+}
+
